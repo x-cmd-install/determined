@@ -5,7 +5,7 @@ about:
   head: c1e9c6d
   archived: false
   latestVersion: "v0.38.1"
-  collectedAt: 2026-09-08T01:29:47Z
+  collectedAt: 2026-09-08T03:35:17Z
 timeline:
   created: 2020-04-07
   lastCommit: 2025-03-20
@@ -92,7 +92,7 @@ total:
   commit: 8394
 ---
 path: /home/runner/.x-repo/github.com/determined-ai/determined
-collectedAt: 2026-09-08T01:30:08Z
+collectedAt: 2026-09-08T03:35:39Z
 loc:
   Go:
     code: 249139
