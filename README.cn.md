@@ -4,7 +4,7 @@
 
 Determined is an open-source machine learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.
 
-![determined](https://repo.x-cmd.io/determined.svg)
+![determined](https://repo.x-cmd.io/determined.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,30 @@ x install determined
 - **最新版本**: `v0.38.1` (2025-03-19)
 - **最近提交**: 2025-03-20
 - **Release 含资产**: 19 个
-- **发布时间**: 2025-03-19T23:12:44Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [determined-agent_0.38.1_checksums.txt](https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-agent_0.38.1_checksums.txt) | 862 B | `other` |
+| [determined-agent_0.38.1_darwin_amd64.tar.gz](https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-agent_0.38.1_darwin_amd64.tar.gz) | 10.4 MiB | `native/darwin/x64` |
+| [determined-agent_0.38.1_darwin_arm64.tar.gz](https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-agent_0.38.1_darwin_arm64.tar.gz) | 9.8 MiB | `native/darwin/arm64` |
+| [determined-agent_0.38.1_linux_amd64.deb](https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-agent_0.38.1_linux_amd64.deb) | 10.7 MiB | `native/linux/x64` |
+| [determined-agent_0.38.1_linux_amd64.rpm](https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-agent_0.38.1_linux_amd64.rpm) | 10.7 MiB | `native/linux/x64` |
+| [determined-agent_0.38.1_linux_amd64.tar.gz](https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-agent_0.38.1_linux_amd64.tar.gz) | 10.2 MiB | `native/linux/x64` |
+| [determined-agent_0.38.1_linux_arm64.deb](https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-agent_0.38.1_linux_arm64.deb) | 9.7 MiB | `native/linux/arm64` |
+| [determined-agent_0.38.1_linux_arm64.rpm](https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-agent_0.38.1_linux_arm64.rpm) | 9.7 MiB | `native/linux/arm64` |
+| [determined-agent_0.38.1_linux_arm64.tar.gz](https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-agent_0.38.1_linux_arm64.tar.gz) | 9.3 MiB | `native/linux/arm64` |
+| [determined-helm-chart_0.38.1.tgz](https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-helm-chart_0.38.1.tgz) | 16.6 KiB | `native/unknown` |
+| [determined-master_0.38.1_checksums.txt](https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-master_0.38.1_checksums.txt) | 870 B | `other` |
+| [determined-master_0.38.1_darwin_amd64.tar.gz](https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-master_0.38.1_darwin_amd64.tar.gz) | 110.6 MiB | `native/darwin/x64` |
+| [determined-master_0.38.1_darwin_arm64.tar.gz](https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-master_0.38.1_darwin_arm64.tar.gz) | 108.4 MiB | `native/darwin/arm64` |
+| [determined-master_0.38.1_linux_amd64.deb](https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-master_0.38.1_linux_amd64.deb) | 113.6 MiB | `native/linux/x64` |
+| [determined-master_0.38.1_linux_amd64.rpm](https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-master_0.38.1_linux_amd64.rpm) | 113.8 MiB | `native/linux/x64` |
+| [determined-master_0.38.1_linux_amd64.tar.gz](https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-master_0.38.1_linux_amd64.tar.gz) | 109.7 MiB | `native/linux/x64` |
+| [determined-master_0.38.1_linux_arm64.deb](https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-master_0.38.1_linux_arm64.deb) | 109.8 MiB | `native/linux/arm64` |
+| [determined-master_0.38.1_linux_arm64.rpm](https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-master_0.38.1_linux_arm64.rpm) | 110.2 MiB | `native/linux/arm64` |
+| [determined-master_0.38.1_linux_arm64.tar.gz](https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-master_0.38.1_linux_arm64.tar.gz) | 106.3 MiB | `native/linux/arm64` |
 
 ## 流行度
 
@@ -72,4 +95,4 @@ determined 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T03:26:15Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:00:21Z._
