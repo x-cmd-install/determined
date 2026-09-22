@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 11178824,
       "digest": null,
-      "download_count": 102,
+      "download_count": 103,
       "created_at": "2025-03-19T23:32:13Z",
       "updated_at": "2025-03-19T23:32:14Z",
       "browser_download_url": "https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-agent_0.38.1_linux_amd64.deb"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 119150562,
       "digest": null,
-      "download_count": 137,
+      "download_count": 138,
       "created_at": "2025-03-19T23:28:14Z",
       "updated_at": "2025-03-19T23:28:18Z",
       "browser_download_url": "https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-master_0.38.1_linux_amd64.deb"
