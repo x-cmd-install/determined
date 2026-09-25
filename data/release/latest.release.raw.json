@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 10279209,
       "digest": null,
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2025-03-19T23:32:13Z",
       "updated_at": "2025-03-19T23:32:14Z",
       "browser_download_url": "https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-agent_0.38.1_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 11178824,
       "digest": null,
-      "download_count": 103,
+      "download_count": 104,
       "created_at": "2025-03-19T23:32:13Z",
       "updated_at": "2025-03-19T23:32:14Z",
       "browser_download_url": "https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-agent_0.38.1_linux_amd64.deb"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 11229463,
       "digest": null,
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2025-03-19T23:32:13Z",
       "updated_at": "2025-03-19T23:32:14Z",
       "browser_download_url": "https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-agent_0.38.1_linux_amd64.rpm"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 10172338,
       "digest": null,
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2025-03-19T23:32:13Z",
       "updated_at": "2025-03-19T23:32:14Z",
       "browser_download_url": "https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-agent_0.38.1_linux_arm64.deb"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 10156800,
       "digest": null,
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2025-03-19T23:32:13Z",
       "updated_at": "2025-03-19T23:32:14Z",
       "browser_download_url": "https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-agent_0.38.1_linux_arm64.rpm"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 9792018,
       "digest": null,
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2025-03-19T23:32:13Z",
       "updated_at": "2025-03-19T23:32:14Z",
       "browser_download_url": "https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-agent_0.38.1_linux_arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 16985,
       "digest": null,
-      "download_count": 243,
+      "download_count": 244,
       "created_at": "2025-03-19T23:12:45Z",
       "updated_at": "2025-03-19T23:12:45Z",
       "browser_download_url": "https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-helm-chart_0.38.1.tgz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 115959139,
       "digest": null,
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2025-03-19T23:28:14Z",
       "updated_at": "2025-03-19T23:28:18Z",
       "browser_download_url": "https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-master_0.38.1_darwin_amd64.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 119150562,
       "digest": null,
-      "download_count": 138,
+      "download_count": 139,
       "created_at": "2025-03-19T23:28:14Z",
       "updated_at": "2025-03-19T23:28:18Z",
       "browser_download_url": "https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-master_0.38.1_linux_amd64.deb"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 119337594,
       "digest": null,
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2025-03-19T23:28:14Z",
       "updated_at": "2025-03-19T23:28:18Z",
       "browser_download_url": "https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-master_0.38.1_linux_amd64.rpm"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 114990391,
       "digest": null,
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2025-03-19T23:28:14Z",
       "updated_at": "2025-03-19T23:28:18Z",
       "browser_download_url": "https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-master_0.38.1_linux_amd64.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 115503604,
       "digest": null,
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2025-03-19T23:28:14Z",
       "updated_at": "2025-03-19T23:28:18Z",
       "browser_download_url": "https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-master_0.38.1_linux_arm64.rpm"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 111460158,
       "digest": null,
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2025-03-19T23:28:14Z",
       "updated_at": "2025-03-19T23:28:17Z",
       "browser_download_url": "https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-master_0.38.1_linux_arm64.tar.gz"
