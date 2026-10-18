@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 10156800,
       "digest": null,
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2025-03-19T23:32:13Z",
       "updated_at": "2025-03-19T23:32:14Z",
       "browser_download_url": "https://github.com/determined-ai/determined/releases/download/v0.38.1/determined-agent_0.38.1_linux_arm64.rpm"
