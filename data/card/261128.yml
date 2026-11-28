@@ -1,0 +1,243 @@
+about:
+  description: "Determined is an open-source machine learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow."
+  license: Apache-2.0
+  homepage: https://determined.ai
+  head: c1e9c6d
+  archived: false
+  latestVersion: "v0.38.1"
+  latestRelease: "v0.38.1"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T06:36:35Z
+timeline:
+  created: 2020-04-07
+  lastCommit: 2025-03-20
+  lastVersion: 2025-03-19
+  lastRelease: 2025-03-19
+  lastPrerelease: 
+popularity:
+  star: 3245
+  watcher: 74
+  fork: 375
+  release: 121
+  contributor: 95
+  pullRequest: 9863
+  issue: 398
+language:
+  Go: 5460423
+  Python: 3418712
+  TypeScript: 2983935
+  SCSS: 103548
+  Shell: 80874
+  PLpgSQL: 62124
+  Makefile: 43446
+  HCL: 36303
+  Roff: 30321
+  JavaScript: 24556
+  Jupyter Notebook: 3033
+  Dockerfile: 2698
+  Smarty: 2265
+  HTML: 2071
+totalBytes: 12254309
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-09-29
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-08-30
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 3
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-06-01
+    release: 0
+    mergedPR: 0
+    openPR: 1
+    closedIssue: 3
+    openIssue: 1
+    commit: 0
+  last360d:
+    since: 2025-12-03
+    release: 0
+    mergedPR: 0
+    openPR: 1
+    closedIssue: 3
+    openIssue: 3
+    commit: 0
+  last720d:
+    since: 2024-12-08
+    release: 3
+    mergedPR: 12
+    openPR: 9
+    closedIssue: 4
+    openIssue: 7
+    commit: 14
+total:
+  release: 121
+  mergedPR: 8379
+  openPR: 62
+  closedIssue: 353
+  openIssue: 45
+  commit: 8394
+---
+path: /home/runner/.x-repo/github.com/determined-ai/determined
+collectedAt: 2026-11-28T06:36:54Z
+loc:
+  Go:
+    code: 249139
+    comments: 18257
+    blanks: 36887
+    files: 868
+  Python:
+    code: 105262
+    comments: 4961
+    blanks: 17851
+    files: 581
+  Tsx:
+    code: 53883
+    comments: 827
+    blanks: 5444
+    files: 351
+  Json:
+    code: 46146
+    comments: 0
+    blanks: 79
+    files: 129
+  TypeScript:
+    code: 45658
+    comments: 21862
+    blanks: 5192
+    files: 307
+  ReStructuredText:
+    code: 25914
+    comments: 0
+    blanks: 10419
+    files: 169
+  Yaml:
+    code: 16081
+    comments: 805
+    blanks: 602
+    files: 156
+  Protobuf:
+    code: 8188
+    comments: 4603
+    blanks: 1133
+    files: 63
+  Sql:
+    code: 7544
+    comments: 918
+    blanks: 918
+    files: 340
+  Sass:
+    code: 5088
+    comments: 56
+    blanks: 298
+    files: 128
+  Css:
+    code: 3831
+    comments: 26
+    blanks: 101
+    files: 5
+  Svg:
+    code: 2335
+    comments: 3
+    blanks: 0
+    files: 27
+  Hcl:
+    code: 1718
+    comments: 119
+    blanks: 422
+    files: 39
+  Makefile:
+    code: 1271
+    comments: 72
+    blanks: 299
+    files: 19
+  Sh:
+    code: 1174
+    comments: 489
+    blanks: 266
+    files: 50
+  JavaScript:
+    code: 956
+    comments: 67
+    blanks: 110
+    files: 13
+  Html:
+    code: 141
+    comments: 7
+    blanks: 8
+    files: 9
+  Ini:
+    code: 128
+    comments: 14
+    blanks: 13
+    files: 6
+  Jupyter:
+    code: 90
+    comments: 95
+    blanks: 34
+    files: 4
+  Toml:
+    code: 70
+    comments: 14
+    blanks: 12
+    files: 4
+  Pan:
+    code: 64
+    comments: 0
+    blanks: 8
+    files: 1
+  Dockerfile:
+    code: 60
+    comments: 15
+    blanks: 19
+    files: 4
+  Bitbake:
+    code: 58
+    comments: 120
+    blanks: 7
+    files: 8
+  ForgeConfig:
+    code: 40
+    comments: 0
+    blanks: 4
+    files: 1
+  Autoconf:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 5701
+    blanks: 3482
+    files: 73
+  Text:
+    code: 0
+    comments: 322
+    blanks: 35
+    files: 30
+total:
+  code: 575925
+  comments: 59502
+  blanks: 83826
+  files: 3386
+---
+
+---
